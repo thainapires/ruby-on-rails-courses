@@ -83,7 +83,7 @@ for i in 0..2
     puts i
 end
 
-#Functions and methos
+#Functions and methods
 
 def simple
     puts "no parens"

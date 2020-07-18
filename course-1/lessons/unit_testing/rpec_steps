@@ -1,0 +1,10 @@
+rspec --init
+
+matches: 
+be_true / be_false / eq 3 /raise_error(SomeError)
+be_predicate - be_even / be_odd / be_nil
+
+see wich tests are passing:
+rspec --format documentation (if it's green, actually work)
+
+others in the website
